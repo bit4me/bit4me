@@ -1,15 +1,15 @@
 ### Hi there 👋
+---
+### 🌱 I’m currently learning ...
+- ICT ( Energy / Power / Building)
+- Front-End
 
-- 🌱 I’m currently learning ...
-   - ICT ( Energy / Power / Building)
-   - Front-End
-
-- 💬 Ask me about ...
-   - C / C++ / C#
-   - Software Architecture Design
-   - Event-Driven Architecture
-   - Distributed Systems
-   - Micro Service Architecture
+### 💬 Ask me about ...
+- C / C++ / C#
+- Software Architecture Design
+- Event-Driven Architecture
+- Distributed Systems
+- Micro Service Architecture
 
 <!--
 **bit4me/bit4me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
