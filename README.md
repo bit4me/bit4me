@@ -1,11 +1,13 @@
 ### Hi there 👋
 ---
 ### 🌱 I’m currently learning ...
-- ICT ( Energy / Power / Building)
-- Front-End
+- IT Convergence System ( Energy / Power / Building)
+- Optimization
+- Decision Supporting System
+- Statistical Analysis, Prediction and Data Mining
+- Prognostics and Health Management
 
 ### 💬 Ask me about ...
-- C / C++ / C#
 - Software Architecture Design
 - Event-Driven Architecture
 - Distributed Systems
