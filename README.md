@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 ### 🌱 I’m currently learning ...
-- Metaverse, XR(VR+AR), Unity, OPC UA
+- Digital Twin, Metaverse, XR(VR+AR), Unity, OPC UA
 - IT Convergence System ( Energy / Power / Building)
 - Optimization
 - Decision Supporting System
